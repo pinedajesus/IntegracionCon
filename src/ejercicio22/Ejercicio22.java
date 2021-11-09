@@ -45,6 +45,9 @@ public class Ejercicio22 {
          System.out.println("La estatura promedio es: "+mediaAltura);
           System.out.println("Cantidad de alumnos mayores a 18 años es: "+conteoMayor18);
            System.out.println("Cantidad de alumnos que miden mas de 1.75 es: "+contadorMayor175);
+           
+           
+           // Primera actualizacion
     }
     
 }
